@@ -37,6 +37,7 @@ nav{
     display: flex; /* Torna o container Flex (Flexível) */
     flex-direction: row; /* Direção dos elementos filhos */
     justify-content: space-between; /* Distribui os elementos filhos uniformemente com espaçamento */
+    align-items: center;
 }
 
 .menu {
